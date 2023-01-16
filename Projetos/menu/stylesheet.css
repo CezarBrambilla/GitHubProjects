@@ -26,9 +26,10 @@ section#menu{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: lightgoldenrodyellow;
-    width: 450px;
-    height: 700px;
+    background-image: url(./images/especialidades1.jpeg);
+    background-size: cover;
+    width: 600px;
+    height: 850px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px black;
 }
