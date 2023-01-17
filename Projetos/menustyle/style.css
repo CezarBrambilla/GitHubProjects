@@ -10,7 +10,7 @@ body, html{
 }
 
 body{
-    background-image: url(/black.jpg);
+    background: black;
 }
 
 .title{
